@@ -1,0 +1,3 @@
+[submodule "themes/not-much-theme"]
+	path = themes/not-much-theme
+	url = https://github.com/artmakna/not-much-theme
